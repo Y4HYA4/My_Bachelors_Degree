@@ -1,6 +1,9 @@
 # Mini-project:
 
-### A simple static-webpage using HTML,CSS & Bootstrap containing my bachelor's program  with a switch from english to french. The host using Azure Static Web app & GitHub actions.
+### A simple static-webpage containing my bachelor's program  with a switch from English to French. 
+- The host using Azure Static Web app & GitHub actions.
+- Technologies used: HTML,CSS & Bootstrap
+
 
 ### The web-app is live and you can check it from here: 
-https://ashy-sky-0b767dd03.1.azurestaticapps.net
+- https://ashy-sky-0b767dd03.1.azurestaticapps.net

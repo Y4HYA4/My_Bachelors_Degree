@@ -44,12 +44,22 @@ a:hover {
 
 
 h2 {
-  font-size: 40px;
+  font-size: 3 vw;
   color: #fff;
-font-family: 'Luxurious Roman', cursive;
+  font-family: 'Luxurious Roman', cursive;
+  text-align: center
+
+}
+
+
+#ourParagraph {
+   border-style: solid; 
+   padding: 1px;
+
+}
 
  }
-
+ 
 h4
 {
  color: #F5F5DC;

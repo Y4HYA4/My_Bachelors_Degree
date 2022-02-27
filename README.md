@@ -5,5 +5,4 @@
 - Technologies used: HTML,CSS & Bootstrap
 
 
-### The web-app is live and you can check it from here: 
-- https://degree.yahya-abulhaj.dev
+

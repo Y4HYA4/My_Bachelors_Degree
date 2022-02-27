@@ -6,4 +6,4 @@
 
 
 ### The web-app is live and you can check it from here: 
-- https://ashy-sky-0b767dd03.1.azurestaticapps.net
+- https://https://degree.yahya-abulhaj.dev

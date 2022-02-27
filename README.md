@@ -6,4 +6,4 @@
 
 
 ### The web-app is live and you can check it from here: 
-- https://https://degree.yahya-abulhaj.dev
+- https://degree.yahya-abulhaj.dev

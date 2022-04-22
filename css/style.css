@@ -62,7 +62,7 @@ h2 {
  
 h4
 {
- color: #F5F5DC;
+ color: #ffffff;
 
 }
 
@@ -85,7 +85,7 @@ li a {
 }
 
 li a.active {
-  background-color: #555;
+  background-color: #131415;
   color: white;
 }
 

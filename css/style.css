@@ -58,11 +58,11 @@ h2 {
 
 }
 
- }
+
  
 h4
 {
-color: #fff;
+color: rgb(255, 255, 255);
 
 }
 
@@ -108,7 +108,7 @@ li a:hover:not(.active) {
     text-transform: uppercase;
     letter-spacing: .2rem; }
   .custom-table tbody th, .custom-table tbody td {
-    color: #777;
+    color: rgb(255, 255, 255);
     font-weight: 400;
     padding-bottom: 20px;
     padding-top: 20px;

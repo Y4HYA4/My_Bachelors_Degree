@@ -85,17 +85,41 @@ li a {
 }
 
 li a.active {
-  background-color: #131415;
+  background-color: #FF00FF;
   color: white;
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
+  background-color: #FF00FF;
   color: white;
 }
 
+:root {
+  --text-color: #FF00FF;
+}
 
+h1 {
+  color: var(--text-color);
+  font-size: 50px;
+  letter-spacing: -5px;
+  margin-bottom: 20px;
+}
 
+.cursor {
+  font-weight: 700;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    color: transparent;
+  }
+
+  50% {
+    color: var(--text-color);
+  }
+}
 
 .custom-table {
   min-width: 900px; }
@@ -135,9 +159,9 @@ li a:hover:not(.active) {
     .custom-table tbody tr:hover td, .custom-table tbody tr:focus td {
       color: #fff; }
       .custom-table tbody tr:hover td a, .custom-table tbody tr:focus td a {
-        color: #fdd114; }
+        color: #FF00FF; }
       .custom-table tbody tr:hover td .more, .custom-table tbody tr:focus td .more {
-        color: #fdd114; }
+        color: #FF00FF; }
   .custom-table .td-box-wrap {
     padding: 0; }
   .custom-table .box {
